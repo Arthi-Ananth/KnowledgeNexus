@@ -1,4 +1,4 @@
-// Mock categories for the knowledge base
+// Mock categories for the KnowledgeNexus
 export const categories = [
   { id: 'all', label: 'All Articles', icon: '📚', count: 24 },
   { id: 'getting-started', label: 'Getting Started', icon: '🚀', count: 6 },
@@ -12,7 +12,7 @@ export const categories = [
 export const articles = [
   {
     id: 1,
-    title: 'Getting Started with Knowledge Base',
+    title: 'Getting Started with KnowledgeNexus',
     description: 'Learn how to set up your account, navigate the dashboard, and make the most out of all available features in just a few minutes.',
     category: 'getting-started',
     categoryLabel: 'Getting Started',

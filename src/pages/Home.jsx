@@ -35,7 +35,7 @@ const statColors = {
 };
 
 /**
- * Home page - Knowledge Base Dashboard
+ * Home page - KnowledgeNexus Dashboard
  * @param {Object} props
  * @param {string} props.activeCategory - current selected category filter
  * @param {function} props.onCreateNew - open the create article modal
@@ -166,7 +166,7 @@ const Home = ({ activeCategory, onCreateNew }) => {
                 ⭐ Featured Article
               </span>
               <h2 className="text-xl sm:text-2xl font-extrabold mb-2 leading-snug">
-                Getting Started with Knowledge Base
+                Getting Started with KnowledgeNexus
               </h2>
               <p className="text-sm text-white/75 leading-relaxed">
                 Set up your account, navigate the dashboard, and make the most out of all available features in just a few minutes.

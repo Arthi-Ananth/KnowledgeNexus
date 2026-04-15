@@ -59,7 +59,7 @@ const Header = ({ onCreateNew, onMenuToggle }) => {
               </svg>
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-base font-bold text-secondary leading-tight">Knowledge Base</h1>
+              <h1 className="text-base font-bold text-secondary leading-tight">KnowledgeNexus</h1>
               <p className="text-xs text-slate-400 leading-tight">Help Center</p>
             </div>
           </div>
